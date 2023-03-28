@@ -1,0 +1,24 @@
+{
+  "name": "gotocorets",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varadig/GotoCoreTS.git"
+  },
+  "keywords": [
+    "GotoCore"
+  ],
+  "author": "varadig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varadig/GotoCoreTS/issues"
+  },
+  "homepage": "https://github.com/varadig/GotoCoreTS#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
